@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "target": "esnext",
-    "lib": ["esnext", "dom", "dom.iterable"],
-    "module": "preserve",
+    "target": "ESNext",
+    "lib": ["ESNext", "Dom", "Dom.Iterable"],
+    "module": "Preserve",
     "moduleResolution": "bundler",
     "strict": true,
     "allowJs": false,

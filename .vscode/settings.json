@@ -4,6 +4,7 @@
   "prettify-ts.maxCharacters": 5000,
   "prettify-ts.typeIndentation": 2,
   "biome.enabled": true,
+  "cSpell.enabled": true,
   "editor.rulers": [
     {
       "column": 100,
