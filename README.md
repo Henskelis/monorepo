@@ -9,6 +9,7 @@ This repo will include the following:
 * Internal library to share code
 * Internal CLI tool to create or manage packages
 * Packages (projects to be released)
+* Changesets to manage changelogs
 * Tests
   * Unit tests with Vitest and JSDOM
   * E2E tests with Playwright
