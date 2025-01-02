@@ -1,0 +1,12 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "prettify-ts.maxProperties": 100,
+  "prettify-ts.maxCharacters": 5000,
+  "prettify-ts.typeIndentation": 2,
+  "editor.rulers": [
+    {
+      "column": 100,
+      "color": "#92929266"
+    }
+  ]
+}

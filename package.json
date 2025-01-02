@@ -4,5 +4,13 @@
   "private": true,
   "type": "module",
   "scripts": {},
-  "license": "MIT"
+  "devDependencies": {
+    "typescript": "catalog:"
+  },
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.2",
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.5.0"
+  }
 }

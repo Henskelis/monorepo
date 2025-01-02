@@ -1,0 +1,9 @@
+packages:
+  - app
+  - cli
+  - lib
+  - packages/*
+
+catalog:
+  tslib: ^2.8.1
+  typescript: ^5.7.2
