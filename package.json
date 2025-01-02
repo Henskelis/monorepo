@@ -12,8 +12,8 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
-    "@cspell/dict-fr-fr": "2.2.5",
-    "@cspell/dict-fr-reforme": "2.2.6",
+    "@cspell/dict-fr-fr": "^2.2.5",
+    "@cspell/dict-fr-reforme": "^2.2.6",
     "cspell": "^8.17.1",
     "lefthook": "^1.10.1",
     "typescript": "catalog:"
